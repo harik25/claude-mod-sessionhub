@@ -1,0 +1,6 @@
+{
+  "name": "session-hub",
+  "version": "0.1.0",
+  "description": "Side pane with session usage, working agents, a prompt refiner that rewrites each prompt before it runs, and a control bar for the hooks.",
+  "types": "./types/index.d.ts"
+}
